@@ -1,0 +1,8 @@
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\EmployeeMgmtSystem.exe
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\nuget.config
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\appsettings.json
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\EmployeeMgmtSystem.dll
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\EmployeeMgmtSystem.deps.json
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\EmployeeMgmtSystem.runtimeconfig.json
+C:\Users\meet.tandel\dotnet Project\EmployeeMgmtSystem\bin\Release\net8.0\publish\EmployeeMgmtSystem.pdb
