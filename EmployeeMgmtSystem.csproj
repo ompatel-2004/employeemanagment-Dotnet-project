@@ -24,7 +24,7 @@
   </PropertyGroup>
 
   <!-- Automatic Push to Nexus -->
-  <Target Name="PushToNexus" AfterTargets="Publish">
+  <Target Name="PushToNexus" AfterTargets="AfterPublish">
 
     <Message Importance="high"
              Text="Publish complete. Starting Nexus Push for version $(Version)..." />
