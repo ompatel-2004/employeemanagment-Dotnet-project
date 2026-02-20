@@ -7,7 +7,7 @@
 
     <!-- Dynamic Versioning -->
     <BuildTimestamp>$([System.DateTime]::Now.ToString("yyyyMMdd-HHmm"))</BuildTimestamp>
-    <Version>2.0.0-$(BuildTimestamp)</Version>
+    <Version>1.0.1-$(BuildTimestamp)</Version>
 
     <!-- Packaging & Nexus Configuration -->
     <IsPackable>true</IsPackable>
