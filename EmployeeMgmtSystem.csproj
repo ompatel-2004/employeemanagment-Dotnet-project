@@ -15,8 +15,8 @@
     <PackageId>EmployeeMgmtSystem</PackageId>
 
     <!-- Nexus Details -->
-    <NexusUrl>http://192.168.0.32:8081/repository/dotnet-project-meet/</NexusUrl>
-    <NexusKey>4d419e7d-f8ea-3a9f-a9b6-384483780396</NexusKey>
+    <NexusUrl>http://192.168.0.42:8081/repository/dotnet_om/</NexusUrl>
+    <NexusKey>240f2403-60f4-33de-be9b-897822d4d2c6</NexusKey>
 
     <!-- Fix for deps file issue -->
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
