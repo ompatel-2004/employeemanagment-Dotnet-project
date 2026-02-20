@@ -33,7 +33,7 @@
     <Exec Command="dotnet pack -c $(Configuration) /p:PackageVersion=$(Version)" />
 
     <!-- Push to Nexus -->
-    <Exec Command="dotnet nuget push bin/$(Configuration)/$(PackageId).$(Version).nupkg --source $(NexusUrl) --api-key $(NexusKey)" />
+    <Exec Command="dotnet nuget push bin/$(Configuration)/$(PackageId).$(Version).nupkg --source $(NexusUrl) --api-key $(NexusKey) --allow-untrusted" />
 
   </Target>
 
